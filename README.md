@@ -18,11 +18,8 @@ User class: name, email, password, balance.
 #### After that, run the app.java application and login (All passwords are 1234 for the users. Admin's password is 12345. You can see Users on the JSON file.)
 ![](https://i.imgur.com/ZNxplRq.png)
 
-#### After that, run the app.java application and login (All passwords are 1234 for the users. Admin's password is 12345. You can see Users on the JSON file.)
-![](https://i.imgur.com/ZNxplRq.png)
-
 #### As admin you can view the blockchain and the users' data by pressing 7.
-![](https://i.imgur.com/ItA7Dz1.png)
+![](https://i.imgur.com/95GLzUx.png)
 
 #### In order to rent a media you need balance (in USD) greater or equal to 1. Otherwise, add balance. You may also return Medias.
 ![](https://i.imgur.com/344l5Fg.png)
