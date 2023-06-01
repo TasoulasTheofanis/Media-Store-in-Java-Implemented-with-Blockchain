@@ -13,16 +13,16 @@ User class: name, email, password, balance.
 #### The blockchain will be the set of blocks, with the further purpose of ensuring the integrity of transactions and ensuring their undesired modification. User data (except the wallet), blocks and transactions will be stored in json files. User passwords will be hashed on the JSON file.
 
 #### After importing the project to your IDE (Eclipse, Visual Code, etc.), you may need to configure the build path.
-![](https://imgur.com/py0NgNk)
+![](https://i.imgur.com/py0NgNk.png)
 
 #### After that, run the app.java application and login (All passwords are 1234 for the users. Admin's password is 12345. You can see Users on the JSON file.)
-![](https://imgur.com/ZNxplRq)
+![](https://i.imgur.com/ZNxplRq.png)
 
 #### After that, run the app.java application and login (All passwords are 1234 for the users. Admin's password is 12345. You can see Users on the JSON file.)
-![](https://imgur.com/ZNxplRq)
+![](https://i.imgur.com/ZNxplRq.png)
 
 #### As admin you can view the blockchain and the users' data by pressing 7.
-![](https://imgur.com/ItA7Dz1)
+![](https://i.imgur.com/ItA7Dz1.png)
 
 #### In order to rent a media you need balance (in USD) greater or equal to 1. Otherwise, add balance. You may also return Medias.
-![](https://imgur.com/344l5Fg)
+![](https://i.imgur.com/344l5Fg.png)
